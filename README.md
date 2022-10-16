@@ -44,7 +44,7 @@
 
 <details>
 	<summary>:bulb: GitHub Stats</summary>
-	<img src="https://github-readme-stats.vercel.app/api?username=Nadide1001&theme=tokyonight">
+	<img src="https://github-readme-stats.vercel.app/api?username=Nadide1001">
 </details>
 
 <details>
