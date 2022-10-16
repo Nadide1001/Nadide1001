@@ -32,19 +32,19 @@
 
 ### For Mobile;
 
-[<font color="#ff0000">CodeSandbox</font>][codesandbox]
+[<font color="#ff0000">CodeSandbox</font>][codesandbox]<br/>
 [<font color="#ff0000">Pythonista3</font>][pythonista3]
 
 ### For my low-end PC;
 
-[<font color="#ff0000">SublimeText</font>][sublime]
+[<font color="#ff0000">SublimeText</font>][sublime]<br/>
 [<font color="#ff0000">Brackets</font>][brackets]
 
 
 
 <details>
 	<summary>:bulb: GitHub Stats</summary>
-	<img src="https://github-readme-stats.vercel.app/api?username=Nadide1001">
+	<img src="https://github-readme-stats.vercel.app/api?username=Nadide1001&show_icons=true">
 </details>
 
 <details>
