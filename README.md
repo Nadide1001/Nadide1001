@@ -7,7 +7,7 @@
 
 ### I am just trying somethings on IPAD & Android
 
-<font color="red">Did i mention before that my favorite is Python? 'print("Hello World!")' </font>
+<font color="#ff0000"> Did i mention before that my favorite is Python?</font>
 
 ## Reach out to me!
 
@@ -19,11 +19,11 @@
 <br />
 
 ## Tech i use;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25" align="left"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" align="left" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" align="left" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" align="left" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25" align="left" />
 
 <br />
 <br />
@@ -32,13 +32,13 @@
 
 ### For Mobile;
 
-[<font color="red">CodeSandbox</font>][codesandbox]
-[<font color="red">Pythonista3</font>][pythonista3]
+[<font color="#ff0000">CodeSandbox</font>][codesandbox]
+[<font color="#ff0000">Pythonista3</font>][pythonista3]
 
 ### For my low-end PC;
 
-[<font color="red">SublimeText</font>][sublime]
-[<font color="red">Brackets</font>][brackets]
+[<font color="#ff0000">SublimeText</font>][sublime]
+[<font color="#ff0000">Brackets</font>][brackets]
 
 
 
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-	<summary>:bulb: GitHub Stats</summary>
+	<summary>:bulb: Most Used Languages</summary>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </details>
 
